@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="blue">#536493</color>
-    <color name="beige">#FFF1DB</color>
+    <color name="green">#347928</color>
+    <color name="greenlight">#E9EFEC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="background_light">#347928</color>
+    <color name="text_light">#E9EFEC</color>
+
+    <color name="background_dark">#121212</color>
+    <color name="text_dark">#FFFFFF</color>
 </resources>
