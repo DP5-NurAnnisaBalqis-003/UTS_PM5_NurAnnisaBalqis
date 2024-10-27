@@ -4,7 +4,7 @@
 ## Aplikasi Kuis 'GeoBoost'
 
 ## Deskripsi Aplikasi
-GeoBoost berasal dari 2 kata yakni, geo yang berarti geografis dan Boost yang berarti meningkatkan. Aplikasi kuis GeoBoost ini menerapkan konsep ilmu pengetahuan geografis Indonesia yang pertanyaannya seputar hal tersebut seperti gunung tertinggi di Jawa, bunga nasional Indonesia, dan lain sebagainya. 
+GeoBoost berasal dari 2 kata yakni, geo yang berarti geografis dan Boost yang berarti meningkatkan. Aplikasi kuis GeoBoost ini menerapkan konsep ilmu pengetahuan geografis Indonesia yang pertanyaannya seputar hal tersebut seperti gunung tertinggi di Jawa, bunga nasional Indonesia, dan lain sebagainya. Aplikasi ini dibuat dengan Kotlin menggunakan Android Studio.
 
 Fitur-fitur yang tersedia:
 1. Fitur Utama (Main Activity), berisikan tombol masuk ke aplikasi.
